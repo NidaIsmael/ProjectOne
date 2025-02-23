@@ -1,0 +1,279 @@
+
+body{
+    background-color: rgb(106, 65, 83);
+}
+
+
+
+nav{
+    text-align: right;
+    position: relative;
+    top: 175px; 
+    font-weight: 100;
+    padding: 80px 20px 5px 20px;
+    margin-top: -130px;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: azure;
+    font-size: 20px;
+    margin: 15px;
+    font-family: "Quintessential", serif;
+}
+
+h1{
+    color: azure;
+    font-family: "Quintessential", serif;
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 900;
+    border-bottom: 15px double rgb(153, 89, 116)
+    
+}
+
+.gif {
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin-top: -30px;
+    position: relative; 
+    left: 30px;
+    top: 75px;
+}
+.page-wrapper {
+    box-shadow: 0px 4px 20px rgba(189, 157, 157, 0.3); 
+    padding: 20px; 
+    background-color: rgb(88, 55, 68);
+    border-radius: 25px; 
+    margin: 20px; 
+
+}
+
+.me{
+    width: 310px;
+    height: 400px;
+    margin-left: 70px;
+    border: 20px double rgb(106,65,83);
+}
+p{
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-top: -33%;
+    margin-right: 30px;
+    font-size: 23px;
+    color: azure;
+    line-height: 1.9;
+    border: double 8px rgb(106, 65, 83);
+    padding: 30px;
+    width: 55%;
+    font-family: "Quintessential", serif;
+   
+    
+}
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: azure;
+    font-family: "Quintessential", serif;
+   
+}
+
+.forest{
+    width: 550px;
+    height: 450px;
+    padding-left: 70px;
+
+}
+.boots{
+    width: 580px;
+    height: 450px;
+    padding-left: 30px;
+   
+}
+.inspo-text{
+    color: azure;
+    font-size: 20px;
+}
+  
+.wolf{
+    height: 450px;
+    width: 600px;
+    padding-left: 30px;
+}
+.tent{
+    height: 450px;
+    width: 600px;
+    padding-left: 30px;
+}
+.arrietty{
+    height: 500px;
+    width: 560px;
+    padding-left: 80px;
+}
+.kiki{
+    min-height: 500px;
+    width: 560px;
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+.movie-poster{
+    width: 400px;
+    height: 520px;
+}
+.book-cover{
+    width: 400px;
+    height: 520px;
+  
+}
+
+ul li a{
+    text-decoration: none;
+    color: azure;
+    font-family: "Quintessential", serif;
+    font-size: 16px;
+}
+ol li a{
+    text-decoration: none;
+    color: azure;
+    font-family: "Quintessential", serif;
+    font-size: 16px;
+}
+h2{
+    color: azure;
+    text-align: center;
+    font-family: "Quintessential", serif;
+    font-weight: 900;
+    font-size: 30px;
+
+}
+.movies ul {
+    display: flex; 
+    flex-wrap: wrap; 
+    padding: 0;
+    margin: 0;
+    justify-content: space-around; 
+    
+}
+.movies li {
+    list-style-type: decimal; 
+    list-style-position: inside;
+    margin-bottom: 20px; 
+    width: 20%; 
+    text-align: center; 
+}
+
+.movie-poster {
+    width: 90%; 
+    height: auto;
+}
+
+
+.movies ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; 
+}
+
+
+.movies li {
+    list-style-type: disc; 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+
+.movies p {
+    font-size: 16px; 
+    margin-top: 10px; 
+    text-align: left; 
+    padding-left: 30px; 
+    color: azure;
+    margin: 0; 
+    margin-left: 25px;
+    font-size: 18px;
+    font-family: "Quintessential", serif;;
+}
+.movies li::marker {
+    color:rgb(46, 14, 27); 
+    font-size: 20px; 
+    font-weight: bold; 
+}
+
+
+
+.books ol {
+    list-style-position: inside;
+    display: flex; 
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    justify-content: space-around; 
+  
+}
+
+
+.books li {
+    list-style-type: decimal;
+    padding-left: 0;
+    margin-left: 0;
+    margin-bottom: 20px; 
+    width: 20%; 
+    text-align: center; 
+}
+
+.books li::marker {
+    color: rgb(46, 14, 27); 
+    font-weight: bold; 
+    font-size: 20px; /
+}
+
+.book-cover {
+    width: 90%; 
+    height: auto;
+}
+ 
+  
+
+
+
+
+
+footer{
+    color: azure;
+    right: 0; 
+    bottom: -30px; 
+    background-color: rgb(153, 89, 116,0.1);
+   
+
+    padding: 10px 20px;
+    font-size: 15px; 
+    text-align: center; 
+   
+
+}
+footer a{
+    text-decoration: none;
+    color: azure;
+    font-family: "Quintessential", serif;
+}
