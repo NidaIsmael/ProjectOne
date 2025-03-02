@@ -53,11 +53,13 @@ h1{
 
 }
 
-.me{
+.me {
     width: 310px;
     height: 400px;
     margin-left: 70px;
-    border: 20px double rgb(106,65,83);
+    border: 30px double rgb(106, 65, 83);
+    position: relative;
+    top: 200px; 
 }
 p{
     text-align: center;
@@ -71,12 +73,10 @@ p{
     border: double 8px rgb(106, 65, 83);
     padding: 30px;
     width: 55%;
-    font-family: "Quintessential", serif;
+    font-family: "Playfair Display", serif;
    
     
 }
-
-
 
 
 
@@ -96,7 +96,7 @@ h3{
 .forest{
     width: 550px;
     height: 450px;
-    padding-left: 70px;
+    padding-left: 80px;
 
 }
 .boots{
@@ -117,16 +117,16 @@ h3{
 }
 .tent{
     height: 450px;
-    width: 600px;
+    width: 580px;
     padding-left: 30px;
 }
 .arrietty{
-    height: 500px;
+    height:480px;
     width: 560px;
-    padding-left: 80px;
+    padding-left: 70px;
 }
 .kiki{
-    min-height: 500px;
+    height:480px;
     width: 560px;
     padding-left: 30px;
 }
