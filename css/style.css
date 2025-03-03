@@ -95,39 +95,46 @@ h3{
 .forest{
     width: 550px;
     height: 450px;
-    padding-left: 80px;
+    margin-left: 80px;
+    border: double 10px rgb(153, 89, 116);
 
-}
+
+}   
 .boots{
     width: 580px;
     height: 450px;
-    padding-left: 30px;
-   
+    margin-left: 30px;
+    border: double 10px rgb(153, 89, 116);
 }
 .inspo-text{
     color: azure;
     font-size: 20px;
+    font-family: "Playfair Display", serif;
 }
   
 .wolf{
     height: 450px;
     width: 600px;
-    padding-left: 30px;
+    margin-left: 50px;
+    border: double 10px rgb(153, 89, 116);
 }
 .tent{
     height: 450px;
     width: 580px;
-    padding-left: 30px;
+   margin-left: 30px;
+   border: double 10px rgb(153, 89, 116);
 }
 .arrietty{
     height:480px;
     width: 560px;
-    padding-left: 70px;
+    margin-left: 85px;
+    border: double 10px rgb(153, 89, 116);
 }
 .kiki{
     height:480px;
     width: 560px;
-    padding-left: 30px;
+    margin-left: 30px;
+    border: double 10px rgb(153, 89, 116);
 }
 
 
@@ -172,6 +179,7 @@ h2{
     padding: 0;
     margin: 0;
     justify-content: space-around; 
+    border: double 6px rgb(153, 89, 116);
     
 }
 .movies li {
@@ -180,6 +188,7 @@ h2{
     margin-bottom: 20px; 
     width: 20%; 
     text-align: center; 
+
 }
 
 .movie-poster {
@@ -213,7 +222,7 @@ h2{
     padding: 0;
     margin: 0;
     justify-content: space-around; 
-  
+    border: double 6px rgb(153, 89, 116);
 }
 
 
@@ -224,6 +233,7 @@ h2{
     margin-bottom: 20px; 
     width: 20%; 
     text-align: center; 
+    
 }
 
 
