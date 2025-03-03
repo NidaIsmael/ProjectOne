@@ -203,11 +203,6 @@ h2{
 
 
 
-.movies li::marker {
-    color:rgb(46, 14, 27); 
-    font-size: 20px; 
-    font-weight: bold; 
-}
 
 
 
@@ -231,11 +226,6 @@ h2{
     text-align: center; 
 }
 
-.books li::marker {
-    color: rgb(46, 14, 27); 
-    font-weight: bold; 
-    font-size: 20px; /
-}
 
 .book-cover {
     width: 90%; 
